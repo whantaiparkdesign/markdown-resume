@@ -48,4 +48,4 @@ Education
 
 Skills
 ------
-**Sketch | Adobe cc | inVision | Zeplin | Figma | Ms Office**
+**Sketch | Photoshop | Illustrator | InDesign | inVision | Zeplin | Figma**

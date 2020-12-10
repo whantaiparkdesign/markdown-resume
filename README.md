@@ -1,3 +1,3 @@
-# Whantai Park markdown-resume
+# Whantai Park Markdown Resume
 
 [Markdown](resume.md)

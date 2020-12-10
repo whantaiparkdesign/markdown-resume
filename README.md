@@ -6,4 +6,4 @@ Changing the content or styling of a resume or CV is a relatively common event t
 
 **Still trying to decide if this is the workflow for you? Here are the original markdown files and the three output files for your persual**: 
 
-[Markdown](resume.md) .  [PDF](resume.pdf) .
+[Markdown](resume.md) .  [PDF](Whantai Park Resume.pdf) .

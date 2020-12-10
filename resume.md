@@ -34,7 +34,8 @@ Experience
 - Created and exported UI for products, web app
 - Designed marketing products— print covers and magazine spreads
 
-**Internship**
+Internship
+---------
 - Graphic Designer, TescoMetal (dec 2012 — july 2013)
 - Graphic Designer, ModernDog (jan 2012 — March 2012)
 

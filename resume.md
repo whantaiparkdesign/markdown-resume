@@ -36,14 +36,14 @@ Experience
 
 Internship
 ---------
-- Graphic Designer, TescoMetal (dec 2012 — july 2013)
-- Graphic Designer, ModernDog (jan 2012 — March 2012)
+- Graphic Designer, TescoMetal (Dec 2012 — July 2013)
+- Graphic Designer, ModernDog (Jan 2012 — March 2012)
 
 
 Education
 ---------
 - **Certificate in UX & Visual Interface design** (March 2021)
-- **Bachelor of Fine Arts – Graphic Design, Art Institute of Seattle** (Sept 2013, Seattle, WA)
+- **Bachelor of Fine Arts – Graphic Design, Art Institute of Seattle** (Sep 2013, Seattle, WA)
 
 
 Skills
